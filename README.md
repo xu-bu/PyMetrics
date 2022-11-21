@@ -1,0 +1,1 @@
+Use "metrics [projectPath]" in command to get instability and abstractness. Notice that separator in projectPath can only be "\\".
