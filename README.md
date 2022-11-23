@@ -4,3 +4,7 @@ go to dist directory, then execute "metrics.exe [packagePath]" in command to get
 
 input example:  
 ![img.png](img.png)
+
+the source code is metrics.py  
+
+this program uses PyInstaller to simply package it
