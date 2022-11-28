@@ -1,10 +1,6 @@
-usage:  
+USAGE:  
 
-go to dist directory, then execute "metrics.exe [packagePath]" in command to get instability and abstractness. Notice that separator in packagePath can only be "\\".  
+Open command line in "PyMetrics" folder, then execute "python metrics.py [packagePath]" to get instability and abstractness.  
 
-input example:  
-![img.png](img.png)
-
-the source code is metrics.py  
-
-this program uses PyInstaller to simply package it
+EXAMPLE:  
+![img_2.png](img_2.png)

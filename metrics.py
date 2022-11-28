@@ -48,7 +48,7 @@ def main(path):
     enablePrint()
     print("the instability of each class is:")
     print(instability(classObjList))
-    print("the abstractness of specific project is:")
+    print("the abstractness of this project is:")
     print(abstractness(classObjList))
 
 
@@ -80,6 +80,4 @@ def abstractness(classList):
     return abstract/len(classList)
 
 if __name__ == '__main__':
-    # main("C:\\Users\\64170\\Desktop\\tool\\testProject")
-    # sys.path.append(sys.argv[1])
     main(sys.argv[1])
